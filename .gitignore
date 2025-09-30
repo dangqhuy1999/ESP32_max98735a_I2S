@@ -1,0 +1,11 @@
+/data
+
+*.bin
+*.elf
+*.map
+
+.pio/
+
+.vscode/
+.idea/
+
